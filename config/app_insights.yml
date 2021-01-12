@@ -1,0 +1,9 @@
+# Testing
+
+---
+version: +
+repository_root: http://yumrepo.sys.comcast.net/mbo/appd/machine/sample.war
+# default_application_name: $(jq -r -n "$VCAP_APPLICATION | .space_name + \":\" + .application_name | @sh")
+# default_node_name: $(jq -r -n "\"$APPD_CF_NODE_PREFIX\" + ($VCAP_APPLICATION | .application_name) + \":$CF_INSTANCE_INDEX\"")
+# default_tier_name:
+# default_unique_host_name: $(jq -r -n "$VCAP_APPLICATION | .application_id + \":$CF_INSTANCE_INDEX\"")
