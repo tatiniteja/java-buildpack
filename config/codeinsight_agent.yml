@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Configuration for the CodeInsight Agent framework
+# Configuration for the CodeInsight Agent framework##
 ---
 version: 0.1+
 repository_root: "http://yumrepo.sys.comcast.net/mbo/cf/CodeInsight-Java.zip"
