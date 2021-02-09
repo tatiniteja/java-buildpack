@@ -15,5 +15,5 @@
 
 # Configuration for the CodeInsight Agent framework##
 ---
-version: 20.5+
+version: 20.5.0.+
 repository_root: "https://yumrepo.sys.comcast.net/mbo/appd/app/20.5/AppServerAgent-20.5.0.30113.zip"
