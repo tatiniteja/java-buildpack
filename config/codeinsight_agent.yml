@@ -16,4 +16,4 @@
 # Configuration for the CodeInsight Agent framework##
 ---
 version: 20.5.+
-repository_root: "https://yumrepo.sys.comcast.net/mbo/appd/app/20.5/"
+repository_root: "http://yumrepo.sys.comcast.net/mbo/appd/app/20.5/"
