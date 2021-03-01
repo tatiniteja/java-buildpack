@@ -14,6 +14,7 @@
 # limitations under the License.
 
 # Configuration for the AppDynamics framework
+#pointing to yum repo
 ---
 version: 20.5.+
 repository_root: "http://yumrepo.sys.comcast.net/mbo/appd/app/20.5/"
